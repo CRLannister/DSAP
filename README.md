@@ -93,3 +93,5 @@ This repo covers some of the theory as well as practical aspects of the course.
 	* Gauss   
 - Search for Weak Signals   
    
+### Reference and For more info. *visit:*
+![Capitanov](https://github.com/capitanov)
