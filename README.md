@@ -4,7 +4,7 @@ This repo covers some of the theory as well as practical aspects of the course.
    
 ## **Topics Covered :**     
    
-### **Notebook - 1*     
+### **Notebook - 1**     
    
 - Signal     
 	* Random    
@@ -23,7 +23,7 @@ This repo covers some of the theory as well as practical aspects of the course.
 	* Properties   
 	* Examples   
    
-### **Notebook - 2*     
+### **Notebook - 2**     
    
 - Discrete Fourier Transform **DFT**     
 	* Properties   
@@ -35,7 +35,7 @@ This repo covers some of the theory as well as practical aspects of the course.
    
 - Inverse Discrete Fourier Transform **IDFT**     
    
-### **Notebook - 3*     
+### **Notebook - 3**     
    
 - Convolution and Correlation     
 	* Cross-corelation   
@@ -43,11 +43,11 @@ This repo covers some of the theory as well as practical aspects of the course.
 	* Properties   
 	* Cyclic/circular/loop Convolution   
    
-### **Notebook - 4*     
+### **Notebook - 4**     
    
 - Normal Distribution   
    
-### **Notebook - 5*     
+### **Notebook - 5**     
    
 - Harmonic Signal   
    
@@ -60,7 +60,7 @@ This repo covers some of the theory as well as practical aspects of the course.
 	* QAM   
 	* ASK   
    
-### **Notebook - 6*     
+### **Notebook - 6**     
    
 - Filters   
 	* Benefits of Digital Filters   
@@ -76,7 +76,7 @@ This repo covers some of the theory as well as practical aspects of the course.
 	* FIR Kaiser Filter   
    
    
-### **Notebook - 7*     
+### **Notebook - 7**     
 - Window functions   
 - Suppression Ratio   
 - Basic Window Functions   
